@@ -121,7 +121,7 @@ body {
 .main-content{
     display: flex;
     align-items: center;
-    margin-bottom: 80px;
+    margin-bottom: 85px;
 }
 
 /* Slider styles */
@@ -170,7 +170,7 @@ body {
     border: none;
     background-image: url('../img/arrow.png');
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center;
     background-color: transparent;
     position: absolute;
     top: 50%;
