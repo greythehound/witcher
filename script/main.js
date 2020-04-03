@@ -1,3 +1,4 @@
+var user = 10;
 var swiper = new Swiper('.swiper-container', {
     // Default parameters
     slidesPerView: 1,
